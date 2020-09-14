@@ -2,6 +2,8 @@
 Primeira etapa do problema
 
 Fazer o download das 100 primeiras imagens dos pokemons da pokeapi
+
+103 Segundos
 """
 
 from datetime import datetime
